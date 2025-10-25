@@ -17,7 +17,7 @@ import { useCheckout } from "../check-in-out/useCheckout";
 import Modal from "../../ui/Modal";
 import ConfirmDelete from "../../ui/ConfirmDelete";
 import { useDeleteBooking } from "./useDeleteBooking";
-import Spinner from "../../ui/spinner";
+import Spinner from "../../ui/Spinner";
 import Empty from "../../ui/Empty";
 
 const HeadingGroup = styled.div`
